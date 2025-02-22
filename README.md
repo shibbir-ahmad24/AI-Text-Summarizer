@@ -34,35 +34,25 @@ To set up the AI Text Summarizer app locally, follow these steps:
 
 1. **Clone the Repository:**
 ``
-git clone https://github.com/shibbir282/AI-Text-Summarizer.git
+git clone https://github.com/shibbir-ahmad24/AI-Text-Summarizer.git
 ``
 
-
-Install Dependencies: Set up your Python environment and install the required dependencies:
-
-
-Edit
+2. **Install Dependencies:** Set up your Python environment and install the required dependencies:
+``
 pip install textstat spacy
 pip install transformers torch
-Download the SpaCy Model: Download the SpaCy language model for processing:
+``
 
-bash
-Copy
-Edit
+3. **Download the SpaCy Model:** Download the SpaCy language model for processing:
 python -m spacy download en_core_web_sm
-Run the App: Start the Streamlit development server:
 
-bash
-Copy
-Edit
+4. **Run the App:** Start the Streamlit development server:
 streamlit run app.py
-Access the App: Open your web browser and go to the following URL:
 
-url
-Copy
-Edit
+5. **Access the App:** Open your web browser and go to the following URL:
+``
 http://127.0.0.1:8501/
-
+``
 
 **APP UI**
 
