@@ -1,5 +1,9 @@
 # AI Text Summarizer
 
+## **Live View**
+
+**Link:** https://textsum-ai.streamlit.app/
+
 ## **Overview**
 
 The **AI Text Summarizer** is a Streamlit-based web app that utilizes advanced AI models for **abstractive text summarization**. The app allows users to input a document or article, and the model will generate a concise summary that retains the main ideas. This tool is ideal for quickly digesting long content without losing important details.
