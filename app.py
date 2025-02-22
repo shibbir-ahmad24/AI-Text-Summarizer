@@ -1,9 +1,9 @@
 import streamlit as st
-from summary import summarizer
+from summary import summarizer  # Import the summarizer from summary.py
 
 def main():
     # Load the custom CSS file for styling
-    st.markdown("""
+    st.markdown(""" 
         <style>
             /* Importing Google Fonts */
             @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap');
@@ -80,12 +80,15 @@ def main():
     # Text input area for raw text
     rawtext = st.text_area("Paste your text here...", height=200, placeholder="Enter your content...")
 
+    # Slider for customizable summary length
+    max_length = st.slider("Select maximum summary length", min_value=50, max_value=500, value=150)
+
     # Submit button for generating the summary
     if st.button("Generate Summary"):
         if rawtext:
             with st.spinner('Generating summary...'):
                 try:
-                    summary, len_summ = summarizer(rawtext)
+                    summary, len_summ = summarizer(rawtext, max_length)
 
                     # Display the summary
                     st.markdown(f"<div class='section-title'>Summary</div>", unsafe_allow_html=True)
