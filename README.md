@@ -28,8 +28,40 @@ The **BART** (Bidirectional and Auto-Regressive Transformers) model is used for 
 - **Hugging Face Transformers Library:** Uses **BART** for summarization.
 - **SpaCy:** Used for text processing and analysis.
 
+## **Installation Guide**
+
+To set up the AI Text Summarizer app locally, follow these steps:
+
+1. **Clone the Repository:**
+``
+git clone https://github.com/shibbir282/AI-Text-Summarizer.git
+``
 
 
+Install Dependencies: Set up your Python environment and install the required dependencies:
+
+
+Edit
+pip install textstat spacy
+pip install transformers torch
+Download the SpaCy Model: Download the SpaCy language model for processing:
+
+bash
+Copy
+Edit
+python -m spacy download en_core_web_sm
+Run the App: Start the Streamlit development server:
+
+bash
+Copy
+Edit
+streamlit run app.py
+Access the App: Open your web browser and go to the following URL:
+
+url
+Copy
+Edit
+http://127.0.0.1:8501/
 
 
 **APP UI**
