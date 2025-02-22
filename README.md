@@ -33,23 +33,32 @@ The **BART** (Bidirectional and Auto-Regressive Transformers) model is used for 
 To set up the AI Text Summarizer app locally, follow these steps:
 
 1. **Clone the Repository:**
+   
 ``
 git clone https://github.com/shibbir-ahmad24/AI-Text-Summarizer.git
 ``
 
-2. **Install Dependencies:** Set up your Python environment and install the required dependencies:
+3. **Install Dependencies:** Set up your Python environment and install the required dependencies:
+
 ``
 pip install textstat spacy
 pip install transformers torch
 ``
 
-3. **Download the SpaCy Model:** Download the SpaCy language model for processing:
+5. **Download the SpaCy Model:** Download the SpaCy language model for processing:
+
+``
 python -m spacy download en_core_web_sm
+``
 
-4. **Run the App:** Start the Streamlit development server:
+7. **Run the App:** Start the Streamlit development server:
+
+``
 streamlit run app.py
+``
 
-5. **Access the App:** Open your web browser and go to the following URL:
+9. **Access the App:** Open your web browser and go to the following URL:
+
 ``
 http://127.0.0.1:8501/
 ``
