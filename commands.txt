@@ -1,6 +1,6 @@
-1. Install textstat and spacy:
+1. Install necessary packages:
 
-	pip install textstat spacy
+	pip install textstat spacy streamlit
 
 	pip install transformers torch
 
@@ -8,7 +8,7 @@
 
 	python -m spacy download en_core_web_sm
 
-3. Run your Flask app:
+3. Run the Streamlit app:
 
 	streamlit run app.py
 
