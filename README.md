@@ -106,3 +106,5 @@ The AI Text Summarizer app is a powerful tool for anyone who needs quick, accura
 ![p1](https://github.com/shibbir-ahmad24/AI-Text-Summarizer/blob/main/Figures/Output1.png)
 
 ![p2](https://github.com/shibbir-ahmad24/AI-Text-Summarizer/blob/main/Figures/Output2.png)
+
+![p3](https://github.com/shibbir-ahmad24/AI-Text-Summarizer/blob/main/Figures/Output3.png)
