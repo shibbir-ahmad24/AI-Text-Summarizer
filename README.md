@@ -38,7 +38,9 @@ To set up the AI Text Summarizer app locally, follow these steps:
    git clone https://github.com/shibbir-ahmad24/AI-Text-Summarizer.git
    ``
 
-3. **Install Dependencies:** Set up your Python environment and install the required dependencies:
+3. **Install Dependencies:**
+
+Set up your Python environment and install the required dependencies:
 
    ``
    pip install textstat spacy
@@ -46,7 +48,9 @@ To set up the AI Text Summarizer app locally, follow these steps:
    pip install transformers torch
    ``
 
-5. **Download the SpaCy Model:** Download the SpaCy language model for processing:
+5. **Download the SpaCy Model:**
+
+Download the SpaCy language model for processing:
 
    ``
    python -m spacy download en_core_web_sm
