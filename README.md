@@ -45,6 +45,7 @@ To set up the AI Text Summarizer app locally, follow these steps:
    ``
    pip install textstat spacy
    ``
+   
    ``
    pip install transformers torch
    ``
