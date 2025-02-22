@@ -1,0 +1,14 @@
+1. Install textstat and spacy:
+
+	pip install textstat spacy
+
+	pip install transformers torch
+
+2. Download the SpaCy model:
+
+	python -m spacy download en_core_web_sm
+
+3. Run your Flask app:
+
+	streamlit run app.py
+
