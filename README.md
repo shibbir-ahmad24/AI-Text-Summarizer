@@ -92,15 +92,15 @@ Special thanks to the open-source community for providing invaluable resources l
 
 ## **Future Enhancements**
 
-- Multi-Language Support: Expand the app to support summarization in other languages.
-- User Accounts: Add user authentication to save summaries for future reference.
-- API Integration: Build an API that allows other applications to integrate the summarization feature.
-- Abstractive Summarization Enhancements: Explore additional models and techniques for even more accurate and nuanced summaries.
+- **Multi-Language Support:** Expand the app to support summarization in other languages.
+- **User Accounts:** Add user authentication to save summaries for future reference.
+- **API Integration:** Build an API that allows other applications to integrate the summarization feature.
+- **Abstractive Summarization Enhancements:** Explore additional models and techniques for even more accurate and nuanced summaries.
 
 ## **Conclusion**
 
 The AI Text Summarizer app is a powerful tool for anyone who needs quick, accurate summaries of long documents. Powered by the BART model, this app provides high-quality text summaries in a user-friendly interface. Whether you’re dealing with academic papers, articles, or any other lengthy content, this app simplifies the process and helps you get to the key points faster.
 
-**APP UI**
+## **APP UI**
 
 ![p1](https://github.com/shibbir-ahmad24/AI-Text-Summarizer/blob/main/Figures/Output.png)
