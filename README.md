@@ -74,6 +74,33 @@ To set up the AI Text Summarizer app locally, follow these steps:
    http://127.0.0.1:8501/
    ``
 
+## **Usage Instructions**
+
+- Input Text: Paste your text into the input box in the app.
+- Generate Summary: Click the "Generate Summary" button to get a concise summary.
+- View Word Count: The app will display the word count for both the original text and the generated summary.
+- Share: If needed, you can copy and share the summary directly.
+- Experiment: Try different input lengths and summaries to explore how the model condenses content.
+
+## **Contributions**
+
+Contributions are welcome! If you'd like to improve the project, feel free to fork the repository, create a new branch, and submit a pull request. You can also report issues or suggest features in the "Issues" section.
+
+## **Acknowledgements**
+
+Special thanks to the open-source community for providing invaluable resources like the BART model from Hugging Face and Streamlit for web app development. This project wouldn’t have been possible without these tools.
+
+## **Future Enhancements**
+
+- Multi-Language Support: Expand the app to support summarization in other languages.
+- User Accounts: Add user authentication to save summaries for future reference.
+- API Integration: Build an API that allows other applications to integrate the summarization feature.
+- Abstractive Summarization Enhancements: Explore additional models and techniques for even more accurate and nuanced summaries.
+
+## **Conclusion**
+
+The AI Text Summarizer app is a powerful tool for anyone who needs quick, accurate summaries of long documents. Powered by the BART model, this app provides high-quality text summaries in a user-friendly interface. Whether you’re dealing with academic papers, articles, or any other lengthy content, this app simplifies the process and helps you get to the key points faster.
+
 **APP UI**
 
 ![p1](https://github.com/shibbir-ahmad24/AI-Text-Summarizer/blob/main/Figures/Output.png)
