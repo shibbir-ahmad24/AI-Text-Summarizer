@@ -76,9 +76,4 @@ To set up the AI Text Summarizer app locally, follow these steps:
 
 **APP UI**
 
-![p1](https://github.com/shibbir-ahmad24/SumBERT-AI-Powered-Text-Summarization-Flask-App/blob/main/Figures/text1.PNG)
-
-![p2](https://github.com/shibbir-ahmad24/SumBERT-AI-Powered-Text-Summarization-Flask-App/blob/main/Figures/text2.PNG)
-
-![p3](https://github.com/shibbir-ahmad24/SumBERT-AI-Powered-Text-Summarization-Flask-App/blob/main/Figures/text3.PNG)
-
+![p1](https://github.com/shibbir-ahmad24/AI-Text-Summarizer/blob/main/Figures/Output.png)
